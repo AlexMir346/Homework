@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-size: 30px;
+}
+
+header {
+  width: 800px;
+  height: 200px;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  color: coral;
+  width: 800px;
+  height: 400px;
+}
+
+nav {
+  width: 100px;
+  height: 400px;
+}
+
+section {
+  width: 700px;
+  height: 400px;
+}
+
+footer {
+  width: 800px;
+  height: 200px;
+}
